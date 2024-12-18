@@ -5,6 +5,9 @@ Simply go to releases and download the ZIP file then extract it and move/ copy t
 
 Always read the README included.
 
+We are aware that in this game there is an isue with cutscenes/ movies not scaling properly and playing in a small box. This issue is currently being worked on with hopes of being fixed,
+so keep an eye on any future updates where this problem may be fixed but for now please be patient on this matter, Thankyou.
+
 Make sure you got the 1.3 patch for this game before you play it its important you can get it here 
 
 https://community.pcgamingwiki.com/files/file/791-spider-man-the-movie-patch-13/
