@@ -1,7 +1,9 @@
 # Spiderman-2002-PC-fix
 This is the spiderman 2002 PC d3d8 wrapper and Fix Files.
 
-Always read the README.
+Simply go to releases and download the ZIP file then extract it and move/ copy the d3d8.dll and d3d8.ini to your games install location next to SpiderMan.exe.
+
+Always read the README included.
 
 Make sure you got the 1.3 patch for this game before you play it its important you can get it here 
 
